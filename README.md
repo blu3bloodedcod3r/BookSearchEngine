@@ -22,7 +22,7 @@ Initiate 'npm i' so that all depenedncies are loaded before trying to run applic
 
 ## Usage
 
-Deployed Application: https://vast-forest-14319.herokuapp.com/
+Deployed Application: https://git.heroku.com/ca-book-search-engine.git
 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
