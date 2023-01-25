@@ -14,6 +14,7 @@ Took starter code and adapted from RESTFUL API to Apollo servers
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 
 ## Installation
 
@@ -21,20 +22,13 @@ Initiate 'npm i' so that all depenedncies are loaded before trying to run applic
 
 ## Usage
 
-Deployed Application: 
+Deployed Application: https://vast-forest-14319.herokuapp.com/
 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![alt text](assets/images/screenshot.png)
 
 ## Features
 

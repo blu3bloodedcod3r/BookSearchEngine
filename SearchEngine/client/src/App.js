@@ -30,6 +30,14 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 });
 
+mongoose.connect(
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/Booksearchengine',
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  },
+);
+
 function App() {
   return (
     <Router>
